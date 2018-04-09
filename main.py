@@ -23,5 +23,4 @@ def main():
     create_new_result_file(output_file_directory, new_matrix)
 
     
-    
 if __name__ == '__main__':main()
